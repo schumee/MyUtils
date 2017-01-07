@@ -1,9 +1,5 @@
 #coding:utf-8
-'''
-Created on 2013-10-28
 
-@author: huangyong
-'''
 import os
 import re
 import sys
